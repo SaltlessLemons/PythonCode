@@ -1,2 +1,2 @@
 # PythonCode
-All my Python Programs
+A repo of all my Python programs (currently consists only of my prime number machine)
